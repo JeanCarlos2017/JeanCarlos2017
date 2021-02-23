@@ -13,7 +13,7 @@
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white"></img>
 
 
-
+ ![Jean Carlos github stats](https://github-readme-stats.vercel.app/api?username=jeancarlos2017&show_icons=true&theme=tokyonight)
 
 <!--
 **JeanCarlos2017/JeanCarlos2017** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
